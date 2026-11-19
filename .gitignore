@@ -1,0 +1,22 @@
+node_modules/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+coverage/
+
+# Database backups
+*.sql.bak
+*.dump
+DB_Backups/
+database/backups/
+# Environment files
+.env.*
+!.env.example
+
+# Database backups
+*.sql.bak
+*.dump
+DB_Backups/
+database/backups/
+.package-lock.json
